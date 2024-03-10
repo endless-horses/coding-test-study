@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/week1/subi/boj-11656/boj-11656.iml" filepath="$PROJECT_DIR$/week1/subi/boj-11656/boj-11656.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/subi/boj-1406/boj-1406.iml" filepath="$PROJECT_DIR$/week1/subi/boj-1406/boj-1406.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/subi/boj-2167/boj-2167.iml" filepath="$PROJECT_DIR$/week1/subi/boj-2167/boj-2167.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/subi/boj-3190/boj-3190.iml" filepath="$PROJECT_DIR$/week1/subi/boj-3190/boj-3190.iml" />
