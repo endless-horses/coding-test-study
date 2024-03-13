@@ -14,11 +14,11 @@ public class Main {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
 
-		n = Integer.parseInt(st.nextToken());
-		p = Integer.parseInt(st.nextToken());
-		q = Integer.parseInt(st.nextToken());
-		x = Integer.parseInt(st.nextToken());
-		y = Integer.parseInt(st.nextToken());
+		n = Long.parseLong(st.nextToken());
+		p = Long.parseLong(st.nextToken());
+		q = Long.parseLong(st.nextToken());
+		x = Long.parseLong(st.nextToken());
+		y = Long.parseLong(st.nextToken());
 
 		System.out.println(solve(n));
 
