@@ -1,4 +1,4 @@
-package week2.jinwwoo;
+package week2.jinwoo;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -10,7 +10,6 @@ public class BOJ10828 {
                         SIZE = "size", 
                         EMPTY = "empty", 
                         TOP = "top";
-
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
