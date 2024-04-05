@@ -1,24 +1,22 @@
 import java.io.*;
 import java.util.*;
 
-class Node {
-    public String node;
-    public String left;
-    public String right;
-
-    public boolean visited;
-
-    public Node(String node, String left, String right) {
-        this.node = node;
-        if (Objects.equals(left, ".")) this.left = null;
-        else this.left = left;
-        if (Objects.equals(right, ".")) this.right = null;
-        else this.right = right;
-    }
-}
-
 public class Main {
+    static class Node {
+        public String node;
+        public String left;
+        public String right;
 
+        public boolean visited;
+
+        public Node(String node, String left, String right) {
+            this.node = node;
+            if (Objects.equals(left, ".")) this.left = null;
+            else this.left = left;
+            if (Objects.equals(right, ".")) this.right = null;
+            else this.right = right;
+        }
+    }
     static TreeMap<String, Node> tree = new TreeMap<>();
     static boolean[] visited;
     static StringBuilder sb = new StringBuilder();
