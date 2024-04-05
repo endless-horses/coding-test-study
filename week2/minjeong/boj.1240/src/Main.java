@@ -1,16 +1,14 @@
 import java.io.*;
 import java.util.*;
 
-class Node {
-    int next, distance;
-    public Node(int next, int distance) {
-        this.next = next;
-        this.distance = distance;
-    }
-}
-
 public class Main {
-
+    static class Node {
+        int next, distance;
+        public Node(int next, int distance) {
+            this.next = next;
+            this.distance = distance;
+        }
+    }
     static ArrayList<ArrayList<Node>> tree = new ArrayList<>();
     static boolean[] visited;
 
