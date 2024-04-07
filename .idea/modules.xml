@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-11656/boj-11656.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-11656/boj-11656.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-11725/boj-11725.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-11725/boj-11725.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-1240/boj-1240.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-1240/boj-1240.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3-subi/boj-1260/boj-1260.iml" filepath="$PROJECT_DIR$/week3/week3-subi/boj-1260/boj-1260.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-1267/boj-1267.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-1267/boj-1267.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-1354/boj-1354.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-1354/boj-1354.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-13975/boj-13975.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-13975/boj-13975.iml" />
@@ -25,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-2164/boj-2164.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-2164/boj-2164.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-2167/boj-2167.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-2167/boj-2167.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-2493/boj-2493.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-2493/boj-2493.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3-subi/boj-2636/boj-2636.iml" filepath="$PROJECT_DIR$/week3/week3-subi/boj-2636/boj-2636.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-2910/boj-2910.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-2910/boj-2910.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-3190/boj-3190.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-3190/boj-3190.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-3755/boj-3755.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-3755/boj-3755.iml" />
@@ -44,6 +46,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/coding-test-study.iml" filepath="$PROJECT_DIR$/.idea/coding-test-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/week1-subi.iml" filepath="$PROJECT_DIR$/week1/week1-subi/week1-subi.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/week2-subi.iml" filepath="$PROJECT_DIR$/week2/week2-subi/week2-subi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/week3-subi/week3-subi.iml" filepath="$PROJECT_DIR$/week3/week3-subi/week3-subi.iml" />
     </modules>
   </component>
 </project>
