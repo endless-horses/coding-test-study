@@ -20,33 +20,31 @@ public class BOJ1806 {
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
             num[i] = Integer.parseInt(st.nextToken());
-
-            if (num[i] >= S) {
-                System.out.println(1);
-                return;
-            }
         }
 
-        int min = Integer.MAX_VALUE;
+        System.out.println(twoPointer());        
+    }
+
+    private static int twoPointer() {
         int start = 0;
         int end = 0;
-        int total = 0;
+        int sum = 0;
+        int min = Integer.MAX_VALUE;
+
         while (start <= N && end <= N) {
-            if (total >= S && min > end - start) {
+            if (sum >= S && min > end - start) {
                 min = end - start;
             }
-            
-            if (total < S) {
-                total += num[end++];
+
+            if (sum < S) {
+                sum += num[end++];
             } else {
-                total -= num[start++];
+                sum -= num[start++];
             }
+
+            if (start > end) start++;
         }
-        
-        if (min == Integer.MAX_VALUE) {
-            System.out.println(0);
-        } else {
-            System.out.println(min);
-        }
+
+        return min == Integer.MAX_VALUE ? 0 : min;
     }
 }
