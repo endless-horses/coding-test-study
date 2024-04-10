@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/week4/week4-subi/boi-1806/boi-1806.iml" filepath="$PROJECT_DIR$/week4/week4-subi/boi-1806/boi-1806.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-1021/boj-1021.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-1021/boj-1021.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-10773/boj-10773.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-10773/boj-10773.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/boj-10828/boj-10828.iml" filepath="$PROJECT_DIR$/week2/week2-subi/boj-10828/boj-10828.iml" />
@@ -33,20 +34,22 @@
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-5397/boj-5397.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-5397/boj-5397.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-7785/boj-7785.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-7785/boj-7785.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/boj-9375/boj-9375.iml" filepath="$PROJECT_DIR$/week1/week1-subi/boj-9375/boj-9375.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/minjeong/boj.1167/boj.1167.iml" filepath="$PROJECT_DIR$/week3/minjeong/boj.1167/boj.1167.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/minjeong/boj.11725/boj.11725.iml" filepath="$PROJECT_DIR$/week2/minjeong/boj.11725/boj.11725.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/minjeong/boj.1240/boj.1240.iml" filepath="$PROJECT_DIR$/week2/minjeong/boj.1240/boj.1240.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/minjeong/boj.1260/boj.1260.iml" filepath="$PROJECT_DIR$/week3/minjeong/boj.1260/boj.1260.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/minjeong/boj.13975/boj.13975.iml" filepath="$PROJECT_DIR$/week2/minjeong/boj.13975/boj.13975.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3/minjeong/boj.15681/boj.15681.iml" filepath="$PROJECT_DIR$/week3/minjeong/boj.15681/boj.15681.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/minjeong/boj.17298/boj.17298.iml" filepath="$PROJECT_DIR$/week2/minjeong/boj.17298/boj.17298.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/minjeong/boj.1991/boj.1991.iml" filepath="$PROJECT_DIR$/week2/minjeong/boj.1991/boj.1991.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/minjeong/boj.2164/boj.2164.iml" filepath="$PROJECT_DIR$/week2/minjeong/boj.2164/boj.2164.iml" />
       <module fileurl="file://$PROJECT_DIR$/week3/week3-minjeong/boj1267/boj1267.iml" filepath="$PROJECT_DIR$/week3/week3-minjeong/boj1267/boj1267.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week3/minjeong/boj.1167/boj.1167.iml" filepath="$PROJECT_DIR$/week3/minjeong/boj.1167/boj.1167.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week3/minjeong/boj.1260/boj.1260.iml" filepath="$PROJECT_DIR$/week3/minjeong/boj.1260/boj.1260.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week3/minjeong/boj.15681/boj.15681.iml" filepath="$PROJECT_DIR$/week3/minjeong/boj.15681/boj.15681.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/coding-test-study.iml" filepath="$PROJECT_DIR$/.idea/coding-test-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1-subi/week1-subi.iml" filepath="$PROJECT_DIR$/week1/week1-subi/week1-subi.iml" />
       <module fileurl="file://$PROJECT_DIR$/week2/week2-subi/week2-subi.iml" filepath="$PROJECT_DIR$/week2/week2-subi/week2-subi.iml" />
       <module fileurl="file://$PROJECT_DIR$/week3/week3-subi/week3-subi.iml" filepath="$PROJECT_DIR$/week3/week3-subi/week3-subi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4.iml" filepath="$PROJECT_DIR$/week4/week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4/week4-subi/week4-subi.iml" filepath="$PROJECT_DIR$/week4/week4-subi/week4-subi.iml" />
     </modules>
   </component>
 </project>
